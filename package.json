@@ -1,12 +1,12 @@
 {
-  "name": "developers-portfolio",
-  "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "http://hashirshoaeb.com/home",
-  "version": "2.0.0",
+  "name": "RangerQuelloVero",
+  "description": "Il mio sito personale",
+  "homepage": "https://RangerQuelloVero.github.io/home",
+  "version": "1.0.0",
   "private": true,
   "author": {
-    "name": "Hashir Shoaib",
-    "email": "hashirshoaeb@gmail.com",
+    "name": "Alexandru Pista",
+    "email": "05pisale@gmail.com",
     "url": "https://github.com/hashirshoaeb"
   },
   "dependencies": {
